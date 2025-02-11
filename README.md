@@ -31,13 +31,13 @@ Currently, I focus on:
 ### 📚 Certifications & Courses  
 🎯 **AWS Cloud Practitioner Certified**  
 🎯 **AWS Solutions Architect Associate Certified**  
-🎯 **GCP Cloud Digital Leader Certification** 
-🎯 **Red Hat Certified System Administrator(RHCSA)** 
-🎯 **Microsoft Azure Fundamentals** 
-🎯 **AZ-104: Microsoft Azure Administrator**  
-🎯 **VMware vSphere: Install, Configure, Manage [V7.0]**  
-🎯 **Python for DevOps - Masterclass**  
-🎯 **Docker & Kubernetes Learning Journey (In Progress)**  
+🎯 **GCP Cloud Digital Leader Certification**
+🎯 **Red Hat Certified System Administrator(RHCSA)**
+🎯 **Microsoft Azure Fundamentals**
+🎯 **AZ-104: Microsoft Azure Administrator**
+🎯 **VMware vSphere: Install, Configure, Manage [V7.0]**
+🎯 **Python for DevOps - Masterclass**
+🎯 **Docker & Kubernetes Learning Journey (In Progress)**
 
 ---  
 
