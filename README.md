@@ -1,8 +1,4 @@
-Here's your updated GitHub bio with **GCP** added:  
-
----
-
-### 🚀 Sk Bablu Alam | Hybrid Cloud & DevOps Enthusiast  
+🚀 Sk Bablu Alam | Hybrid Cloud & DevOps Enthusiast  
 
 💼 **Hybrid Cloud Engineer | Aspiring DevOps Engineer**  
 📍 **Bangalore, India**  
