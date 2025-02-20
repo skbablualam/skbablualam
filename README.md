@@ -1,7 +1,7 @@
 ---
 🚀 Sk Bablu Alam | Hybrid Cloud & DevOps Enthusiast  
 
-💼 **Hybrid Cloud Engineer | Aspiring DevOps Engineer**  
+💼 **Cloud Engineer | Aspiring DevOps Engineer**  
 📍 **Bangalore, India**  
 🔗 [LinkedIn](https://www.linkedin.com/in/bablu-alam-040169143/)  
 
