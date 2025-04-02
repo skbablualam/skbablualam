@@ -15,7 +15,7 @@ Currently, I focus on:
 - **Infrastructure as Code (IaC)** – Terraform & Ansible  
 - **Automation & Scripting** – Bash & Powershell 
 - **Containerization & Orchestration** – Docker & Kubernetes  
-- **CI/CD Pipelines** – Jenkins, GitHub Actions  
+- **CI/CD Pipelines** – Azure pipeline, Jenkins & GitHub Actions  
 - **Cloud Technologies** – AWS, Azure, GCP, Hybrid Cloud  
 
 ---  
@@ -29,8 +29,8 @@ Currently, I focus on:
 ---  
 
 ### 📚 Certifications & Courses  
-🎯 **AWS Cloud Practitioner Certified**  
-🎯 **AWS Solutions Architect Associate Certified**  
+🎯 **AWS Cloud Practitioner**  
+🎯 **AWS Solutions Architect Associate**  
 🎯 **GCP Cloud Digital Leader Certification**
 🎯 **Red Hat Certified System Administrator(RHCSA)**
 🎯 **Microsoft Azure Fundamentals**
