@@ -13,7 +13,7 @@ I am a **Hybrid Cloud Engineer** with hands-on experience in **VMware ESXi, vCen
 
 Currently, I focus on:  
 - **Infrastructure as Code (IaC)** – Terraform & Ansible  
-- **Automation & Scripting** – Python & Golang  
+- **Automation & Scripting** – Bash & Powershell 
 - **Containerization & Orchestration** – Docker & Kubernetes  
 - **CI/CD Pipelines** – Jenkins, GitHub Actions  
 - **Cloud Technologies** – AWS, Azure, GCP, Hybrid Cloud  
