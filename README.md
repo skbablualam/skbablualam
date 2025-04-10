@@ -72,7 +72,7 @@ Here are some of the projects I’m working on:
 ## 🤝 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bablu-alam/)
-- 📧 bablu.devops.engineer@gmail.com  
+- 📧 bablu030397@gmail.com  
 - 🌐 [Visit My Portfolio (coming soon)](#)
 
 ---
