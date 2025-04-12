@@ -49,14 +49,18 @@ Here are some of the projects I’m working on:
 
 ## 📜 Certifications
 
-- ✅ AWS Certified Solutions Architect – Associate  
-- ✅ AZ-104: Microsoft Azure Administrator  
-- ✅ RHCSA – Red Hat Certified System Administrator  
-- ✅ GCP Cloud Digital Leader  
-- ✅ HashiCorp Certified: Terraform Associate  
-- ✅ Docker Certified Associate (in progress)  
-- ✅ Kubernetes for Beginners – KodeKloud  
-- ✅ Python, Shell, Git & Jenkins – KodeKloud
+- ✅ AZ-104: Microsoft Azure Administrator – Certified
+- ✅ VMware vSphere: Install, Configure, Manage (v7.0) – Attari Classes
+- ✅ RHCSA: Red Hat Certified System Administrator – KodeKloud
+- ✅ AWS Certified Cloud Practitioner – Skillsoft
+- ✅ AWS Solutions Architect Associate – KodeKloud
+- ✅ GCP Cloud Digital Leader – KodeKloud
+- ✅ Microsoft Azure Fundamentals – Skillsoft
+- ✅ HashiCorp Terraform Associate – KodeKloud
+- ✅ Docker Certified Associate – KodeKloud
+- ✅ Kubernetes (KCNA, CKA) – KodeKloud
+- ✅ A+, N+, MCSA, CCNA & Hardware and Networking – Jetking
+- ✅ GitHub Actions, Prometheus Associate, Azure DevOps (AZ-400) – KodeKloud
 
 ---
 
