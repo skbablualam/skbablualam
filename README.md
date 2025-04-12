@@ -8,7 +8,7 @@
 
 ## 🔧 About Me
 
-I'm a System Administrator turned DevOps Engineer with a passion for automation, cloud infrastructure, and improving system reliability through scripting and open-source tools. With hands-on experience in hybrid environments (on-prem + cloud), I specialize in streamlining infrastructure deployments and security patching using tools like **Ansible**, **Docker**, **Terraform**, and **Bash/Python scripting**.
+Cloud & DevOps Engineer with over 6 years of progressive experience in managing hybrid IT infrastructures across AWS, Azure, and VMware environments. Certified in Azure Administrator (AZ-104), RHCSA, and AWS with a proven track record in automating deployments, configuring CI/CD pipelines, and ensuring cloud security compliance. Adept at implementing Infrastructure as Code (IaC) using Terraform and Ansible, with hands-on knowledge of Docker, Git, and Kubernetes.
 
 My goal is to design scalable, secure, and automated solutions to modern IT challenges—and always stay ahead by learning and contributing back to the community.
 
