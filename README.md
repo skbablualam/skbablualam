@@ -44,6 +44,9 @@ Here are some of the projects I’m working on:
 
 - [📦 Dockerized Flask App](https://github.com/skbablualam/docker-flask-app)  
   Basic Python Flask app containerized using Docker to demonstrate image building, container networking, and multi-stage builds.
+  
+- [📦 Dockerized NGINX - Bablu's DevOps Static Site](https://github.com/skbablualam/docker-nginx-site)
+  This is a simple yet powerful project that demonstrates how to containerize a static HTML site using NGINX and Docker.
 
 ---
 
