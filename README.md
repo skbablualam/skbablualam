@@ -60,6 +60,12 @@ Here are some of the projects I’m working on:
 - [📦 Dockerized NGINX - Bablu's DevOps Static Site](https://github.com/skbablualam/docker-nginx-site)
   This is a simple yet powerful project that demonstrates how to containerize a static HTML site using NGINX and Docker.
 
+- [Dockerized 3-Tier Web Application] (https://github.com/skbablualam/docker-3tier-app)
+  A simple 3-tier app using Docker Compose:
+  Nginx frontend serving static HTML
+  Flask backend serving API
+  MySQL database
+
 ---
 
 ## 📜 Certifications
