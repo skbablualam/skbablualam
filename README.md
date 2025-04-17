@@ -64,6 +64,8 @@ Here are some of the projects I’m working on:
 - [📦 Dockerized 3-Tier Web Application](https://github.com/skbablualam/docker-3tier-app)
   A simple 3-tier app using Docker Compose: Nginx frontend serving static HTML, Flask backend serving API, MySQL database.
 
+-[DevOps 3-Tier Web Application 🚀](https://github.com/skbablualam/Devops-3tier-Webapp)
+  This project is a real-world simulation of a DevOps 3-tier web application. It showcases containerization, infrastructure as code, and CI/CD automation — all tied together to deliver a seamless and reproducible deployment pipeline.
 ---
 
 ## 📜 Certifications
