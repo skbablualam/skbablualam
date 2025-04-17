@@ -2,7 +2,7 @@
 
 🚀 **Cloud & DevOps Engineer | Linux Enthusiast | Automation Practitioner**  
 
-🚀 **I'm a Cloud & Systems Engineer with 5+ years of hands-on experience in hybrid IT infrastructure, automation, and DevOps practices. My passion lies in streamlining operations through Infrastructure as Code, container orchestration, and CI/CD pipeline optimization.**
+🚀 **I'm a Cloud & Systems Engineer with 6+ years of hands-on experience in hybrid IT infrastructure, automation, and DevOps practices. My passion lies in streamlining operations through Infrastructure as Code, container orchestration, and CI/CD pipeline optimization.**
 
 ---
 
