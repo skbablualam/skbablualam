@@ -1,16 +1,17 @@
 # 👋 Hello! I'm Bablu Alam
 
 🚀 **Cloud & DevOps Engineer | Linux Enthusiast | Automation Practitioner**  
-📍 Bangalore, India  
-🔭 Currently working at **Unisys** as a **Cloud Engineer**
+
+🚀 **I'm a Cloud & Systems Engineer with 5+ years of hands-on experience in hybrid IT infrastructure, automation, and DevOps practices. My passion lies in streamlining operations through Infrastructure as Code, container orchestration, and CI/CD pipeline optimization.**
 
 ---
 
 ## 🔧 About Me
 
-Cloud & DevOps Engineer with over 6 years of progressive experience in managing hybrid IT infrastructures across AWS, Azure, and VMware environments. Certified in Azure Administrator (AZ-104), RHCSA, and AWS with a proven track record in automating deployments, configuring CI/CD pipelines, and ensuring cloud security compliance. Adept at implementing Infrastructure as Code (IaC) using Terraform and Ansible, with hands-on knowledge of Docker, Git, and Kubernetes.
-
-My goal is to design scalable, secure, and automated solutions to modern IT challenges—and always stay ahead by learning and contributing back to the community.
+- 🧠 Currently upskilling towards DevOps Engineering (multi-cloud focus)
+- ☁️ Working as a Cloud Engineer at Unisys
+- 📚 Learning: Kubernetes | Docker | Terraform | CI/CD | Python | Bash
+- 🇮🇳 Based in Bangalore, India 🇮🇳
 
 ---
 
@@ -67,7 +68,7 @@ Here are some of the projects I’m working on:
 
 ## 📜 Certifications
 
-- ✅ AZ-104: Microsoft Azure Administrator – Certified
+- ✅ [AZ-104: Microsoft Azure Administrator – Certified](https://www.credly.com/users/bablu-alam.892cbfb5)
 - ✅ VMware vSphere: Install, Configure, Manage (v7.0) – Attari Classes
 - ✅ RHCSA: Red Hat Certified System Administrator – KodeKloud
 - ✅ AWS Certified Cloud Practitioner – Skillsoft
