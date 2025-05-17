@@ -79,9 +79,9 @@ Here are some of the projects I’m working on:
 - ✅ Microsoft Azure Fundamentals – Skillsoft
 - ✅ HashiCorp Terraform Associate – KodeKloud
 - ✅ Docker Certified Associate – KodeKloud
-- ✅ Kubernetes (KCNA, CKA) – KodeKloud
+- ✅ Kubernetes (CKA) – KodeKloud
 - ✅ A+, N+, MCSA, CCNA & Hardware and Networking – Jetking
-- ✅ GitHub Actions, Prometheus Associate, Azure DevOps (AZ-400) – KodeKloud
+- ✅ Jenkins, Prometheus Associate, Azure DevOps (AZ-400) – KodeKloud
 
 ---
 
