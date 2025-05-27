@@ -49,14 +49,16 @@
 
 Here are some of the projects I’m working on:
 
+- [ 🚀 jenkins-docker-cicd-python-app](https://github.com/skbablualam/jenkins-docker-cicd-python-app)
+  🚀 CI/CD Pipeline Automation with Jenkins, Docker, and Python Flask
+  This project demonstrates a fully automated CI/CD pipeline using Jenkins, Docker, and GitHub, deployed on an AWS EC2 (Free Tier) instance. The pipeline automates the build, test, and deployment of a containerized
+  Python Flask application.
+  
 - [🔍 System Health Report (Bash)](https://github.com/skbablualam/system-health-report)  
   Automates routine system checks, captures CPU, memory, disk, and network usage, and emails a daily report for proactive monitoring.
 
 - [🔐 Security Patch Automation (Ansible)](https://github.com/skbablualam/ansible-security-patch)  
   Automates monthly security updates on Linux servers (CentOS) with rollback options, scheduled through Ansible playbooks.
-
-- [📦 Dockerized Flask App](https://github.com/skbablualam/docker-flask-app)  
-  Basic Python Flask app containerized using Docker to demonstrate image building, container networking, and multi-stage builds.
   
 - [📦 Dockerized NGINX - Bablu's DevOps Static Site](https://github.com/skbablualam/docker-nginx-site)
   This is a simple yet powerful project that demonstrates how to containerize a static HTML site using NGINX and Docker.
