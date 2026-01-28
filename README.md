@@ -2,16 +2,11 @@
 
 🚀 **Cloud & DevOps Engineer | Linux Enthusiast | Automation Practitioner**  
 
-🚀 **I'm a Cloud & Systems Engineer with 6+ years of hands-on experience in hybrid IT infrastructure, automation, and DevOps practices. My passion lies in streamlining operations through Infrastructure as Code, container orchestration, and CI/CD pipeline optimization.**
-
 ---
 
 ## 🔧 About Me
 
-- 🧠 Currently upskilling towards DevOps Engineering (multi-cloud focus)
-- ☁️ Working as a Cloud Engineer at Unisys
-- 📚 Learning: Kubernetes | Docker | Terraform | CI/CD | Python | Bash
-- 🇮🇳 Based in Bangalore, India 🇮🇳
+- AWS & Azure DevOps Engineer with 6+ years of experience designing, automating, and operating highly available multi-cloud infrastructure. Proven expertise in managing Kubernetes platforms (EKS & AKS), delivering zero-downtime deployments using Helm, blue-green, and canary strategies. Strong background in Infrastructure as Code using Terraform and Ansible, including automated disaster recovery and regional failover implementations. Experienced in building observability solutions leveraging CloudWatch and Azure Monitor to support proactive monitoring, incident response, and root cause analysis. Extensive CI/CD experience with Jenkins, integrated with Docker, Git, SonarQube, and Ansible, along with an automation mindset using Python-based operational tooling and end-to-end AWX Tower setup and management.
 
 ---
 
