@@ -6,7 +6,7 @@
 
 ## 🔧 About Me
 
-- AWS & Azure DevOps Engineer with 6+ years of experience designing, automating, and operating highly available multi-cloud infrastructure. Proven expertise in managing Kubernetes platforms (EKS & AKS), delivering zero-downtime deployments using Helm, blue-green, and canary strategies. Strong background in Infrastructure as Code using Terraform and Ansible, including automated disaster recovery and regional failover implementations. Experienced in building observability solutions leveraging CloudWatch and Azure Monitor to support proactive monitoring, incident response, and root cause analysis. Extensive CI/CD experience with Jenkins, integrated with Docker, Git, SonarQube, and Ansible, along with an automation mindset using Python-based operational tooling and end-to-end AWX Tower setup and management.
+AWS & Azure DevOps Engineer with 6+ years of experience designing, automating, and operating highly available multi-cloud infrastructure. Proven expertise in managing Kubernetes platforms (EKS & AKS), delivering zero-downtime deployments using Helm, blue-green, and canary strategies. Strong background in Infrastructure as Code using Terraform and Ansible, including automated disaster recovery and regional failover implementations. Experienced in building observability solutions leveraging CloudWatch and Azure Monitor to support proactive monitoring, incident response, and root cause analysis. Extensive CI/CD experience with Jenkins, integrated with Docker, Git, SonarQube, and Ansible, along with an automation mindset using Python-based operational tooling and end-to-end AWX Tower setup and management.
 
 ---
 
