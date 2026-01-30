@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Bablu Alam
 
-🚀 **Cloud & DevOps Engineer | Linux Enthusiast | Automation Practitioner**  
+🚀 **Cloud & DevOps Engineer**  
 
 ---
 
