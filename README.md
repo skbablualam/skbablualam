@@ -88,16 +88,6 @@ This project demonstrates practical experience in:
 
 ---
 
-## 📜 Certifications
-
-* AZ-104: Microsoft Azure Administrator
-* AWS Cloud Practitioner
-* Terraform Associate (Training)
-* RHCSA (Training)
-* Kubernetes & Docker (Hands-on Projects)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -110,7 +100,9 @@ This project demonstrates practical experience in:
 ## 🤝 Connect With Me
 
 📍 Bangalore, India
+
 🔗 LinkedIn: [https://www.linkedin.com/in/bablu-alam/](https://www.linkedin.com/in/bablu-alam/)
+
 📧 [bablu030397@gmail.com](mailto:bablu030397@gmail.com)
 
 ---
