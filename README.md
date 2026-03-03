@@ -8,7 +8,7 @@ Designing secure, scalable, production-grade cloud infrastructure with strong op
 
 # 🚀 Professional Summary
 
-Cloud Operations Engineer with 6+ years of experience managing hybrid infrastructure across AWS, Azure, VMware, and enterprise environments.
+Cloud Engineer with 6+ years of experience managing hybrid infrastructure across AWS, Azure, VMware, and enterprise environments.
 
 Specialized in:
 
