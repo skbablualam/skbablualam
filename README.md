@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bablu Alam
 
-**Cloud Operations Engineer | AWS | Terraform | Kubernetes | CI/CD Automation**
+**Cloud Engineer | AWS | Terraform | Kubernetes | CI/CD Automation**
 
 Designing secure, scalable, production-grade cloud infrastructure with strong operational reliability.
 
