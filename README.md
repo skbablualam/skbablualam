@@ -2,7 +2,7 @@
 
 **Cloud/DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD Automation**
 
-Designing secure, scalable, production-grade cloud infrastructure with strong operational reliability.
+Designing secure, scalable, and production-grade infrastructure with automation-first principles and reliability at scale.
 
 ---
 
