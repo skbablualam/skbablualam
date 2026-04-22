@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bablu Alam
 
-**Cloud Engineer | AWS | Terraform | Kubernetes | CI/CD Automation**
+**Cloud/DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD Automation**
 
 Designing secure, scalable, production-grade cloud infrastructure with strong operational reliability.
 
@@ -8,7 +8,7 @@ Designing secure, scalable, production-grade cloud infrastructure with strong op
 
 # 🚀 Professional Summary
 
-Cloud Engineer with 6+ years of experience managing hybrid infrastructure across AWS, Azure, VMware, and enterprise environments.
+Cloud/DevOps Engineer with 6+ years of experience managing hybrid infrastructure across AWS, Azure, VMware, and enterprise environments.
 
 Specialized in:
 
