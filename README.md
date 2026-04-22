@@ -8,18 +8,19 @@ Designing secure, scalable, production-grade cloud infrastructure with strong op
 
 # 🚀 Professional Summary
 
-Cloud/DevOps Engineer with 6+ years of experience managing hybrid infrastructure across AWS, Azure, VMware, and enterprise environments.
+Cloud/DevOps Engineer with 6.5+ years of experience across AWS, Azure, and enterprise infrastructure environments.
 
-Specialized in:
+Strong focus on automation, reliability engineering, and cloud-native architecture.
 
-* Infrastructure as Code (Terraform)
-* Containerized workloads (Docker)
-* Kubernetes orchestration
-* CI/CD automation (GitHub Actions, Jenkins)
-* Cloud networking & IAM governance
-* Patch governance & compliance automation
+🔍 Key Expertise:
+Infrastructure as Code (Terraform, CloudFormation)
+Containerization (Docker) & Orchestration (Kubernetes)
+CI/CD Engineering (Jenkins, GitHub Actions)
+Monitoring & Observability (Prometheus, Grafana, CloudWatch)
+Serverless Architectures (AWS Lambda, DynamoDB)
+Scripting (Python, Bash)
 
-I focus on building **production-ready cloud platforms**, not lab demos.
+I build systems that scale, self-heal, and don’t wake people up at 2 AM.
 
 ---
 
