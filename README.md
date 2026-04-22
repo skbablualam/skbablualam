@@ -29,33 +29,6 @@ I focus on building **production-ready cloud platforms**, not lab demos.
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,github,git,linux,bash,ansible,jenkins,nginx" />
 </p>
 
----
-
-# 🏗️ Featured Project – Production-Style AWS Cloud Deployment
-
-### End-to-End Containerized Application on AWS (Enterprise Simulation)
-
-Designed and deployed a real-world style architecture:
-
-* Multi-AZ VPC provisioned using Terraform
-* Public & Private Subnets with NAT Gateway
-* Application Load Balancer with secure routing
-* Dockerized full-stack application
-* Kubernetes-based deployment
-* CI/CD automation using GitHub Actions
-* Remote Terraform backend (S3 + state locking)
-* IAM least-privilege access model
-
-### Demonstrates Practical Expertise In:
-
-* Cloud Networking Architecture
-* Infrastructure as Code
-* Containerization & Orchestration
-* CI/CD Automation
-* Secure IAM Design
-* Production Reliability Practices
-
----
 
 # 📈 GitHub Metrics
 
