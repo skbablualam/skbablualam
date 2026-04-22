@@ -26,9 +26,31 @@ I build systems that scale, self-heal, and don’t wake people up at 2 AM.
 
 # 🛠️ Technology Stack
 
+### ☁️ Cloud & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,github,git,linux,bash,ansible,jenkins,GitHubActions,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible" />
 </p>
+
+### 🐳 Containers & Orchestration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+### ⚙️ CI/CD & Version Control
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,github,git" />
+</p>
+
+### 🖥️ OS & Scripting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python" />
+</p>
+
+### 🌐 Web & Networking
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx" />
+</p>
+
 
 
 # 📈 GitHub Metrics
